@@ -6,6 +6,7 @@ import(
 )
 func main(){
     // datatype_var.DataType();
-    basics.BasicLoops();
+    // basics.BasicLoops();
+    basics.BasicFlowControl();
 
 }
